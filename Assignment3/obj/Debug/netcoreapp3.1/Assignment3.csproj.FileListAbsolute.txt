@@ -1,0 +1,4 @@
+C:\Users\jskno\OneDrive - Georgian College\Desktop\InforCodeStd\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.exe
+C:\Users\jskno\OneDrive - Georgian College\Desktop\InforCodeStd\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csprojAssemblyReference.cache
+C:\Users\jskno\OneDrive - Georgian College\Desktop\InforCodeStd\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+C:\Users\jskno\OneDrive - Georgian College\Desktop\InforCodeStd\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
